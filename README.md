@@ -1,5 +1,5 @@
 ## Marco Aurélio
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thursouz_/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_imarco.cs/)
 ## Meus Conhecimentos
 ###
 #### Skills
